@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample_009.dashboard.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample_009.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample_009.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample_009.registration.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample 009.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\bin\Release\Tsample 009.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\bin\Release\Tsample 009.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\bin\Release\Tsample 009.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample 009.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample 009.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample 009.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample_009.Billing_system.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample_009.SUCCESS.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample_009.PHARMACYBILLS.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\Tsample 009\Tsample 009\obj\x86\Release\Tsample_009.schoolgrade.resources
